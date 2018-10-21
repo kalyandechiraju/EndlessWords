@@ -1,6 +1,6 @@
-# first_flutter
+# EndlessWords
 
-A new Flutter project.
+A demo Flutter project with endless list of auto generated words.
 
 ## Getting Started
 
